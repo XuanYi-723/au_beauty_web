@@ -17,6 +17,12 @@ const Footer = () => {
               <li><a href="#products">卸妝潔顏系列</a></li>
               <li><a href="#products">化妝水系列</a></li>
               <li><a href="#products">精華液/油系列</a></li>
+              <li><a href="#products">德國高效安瓶</a></li>
+              <li><a href="#products">法國植萃安瓶</a></li>
+              <li><a href="#products">乳液系列</a></li>
+              <li><a href="#products">乳霜系列</a></li>
+              <li><a href="#products">術後修復系列</a></li>
+              <li><a href="#products">面膜/凍膜系列</a></li>
             </ul>
           </div>
           

@@ -4,54 +4,705 @@
     "category": "卸妝潔顏系列",
     "name": "高效卸潔蜜",
     "price": 1280,
+    "priceDisplay": "NT$ 1,280",
     "volume": "150ml",
     "target": "任何肌膚/醫美術後/敏感肌膚",
-    "ingredients": ["薰衣草萃取精華", "天然保濕因子NMF", "玻尿酸"],
+    "ingredients": [
+      "薰衣草萃取精華",
+      "天然保濕因子NMF",
+      "玻尿酸"
+    ],
     "description": "功效為二效合一：可卸妝、洗臉，同時幫肌膚保濕、舒緩肌膚功效。",
-    "image": "/images/149031fe4e7b629d425d15524fbd527b.png"
+    "image": "/images/4a0d567c094d5eff30d8c9e4018f3a05.png"
   },
   {
     "id": "cleansing-2",
     "category": "卸妝潔顏系列",
     "name": "胺基酸純淨洗面乳",
     "price": 880,
+    "priceDisplay": "NT$ 880",
     "volume": "120ml",
     "target": "任何肌膚/毛孔粗大/混合肌/油性肌膚",
-    "ingredients": ["左旋維他命C", "活酵母精華", "胺基酸"],
+    "ingredients": [
+      "左旋維他命C",
+      "活酵母精華",
+      "胺基酸"
+    ],
     "description": "溫和洗淨毛孔，平衡油脂分泌，促進肌膚新陳代謝功能達到清潔效果。",
-    "image": "/images/2295fd0c89776ccd2927ca109cb6af4f.png"
+    "image": "/images/6b1679811dbe5c4efa6cfc6997ada03f.png"
   },
   {
     "id": "cleansing-3",
     "category": "卸妝潔顏系列",
     "name": "柔晶煥采更新膠",
     "price": 1680,
+    "priceDisplay": "NT$ 1,680",
     "volume": "100ml",
     "target": "任何肌膚/角質肥厚者",
-    "ingredients": ["石榴萃取", "卡姆果萃取", "蘋果酸"],
+    "ingredients": [
+      "石榴萃取",
+      "卡姆果萃取",
+      "蘋果酸"
+    ],
     "description": "軟化角質，去除老廢角質層，有效促進角質更新，使肌膚滑嫩亮白。",
-    "image": "/images/2ed49e52fe333364084790aa468f7125.jpg"
+    "image": "/images/149031fe4e7b629d425d15524fbd527b.png"
   },
   {
     "id": "toner-1",
     "category": "化妝水系列",
-    "name": "舒緩保濕化妝水",
-    "price": 980,
+    "name": "深海膠原活化機能水",
+    "price": 1280,
+    "priceDisplay": "NT$ 1,280",
     "volume": "150ml",
-    "target": "所有肌膚",
-    "ingredients": ["洋甘菊萃取", "蘆薈萃取", "玻尿酸"],
-    "description": "深層補水，鎮靜舒緩肌膚，為後續保養打好基礎。",
+    "target": "任何肌膚/敏感肌膚/醫美術後",
+    "ingredients": [
+      "海洋膠原蛋白",
+      "竹子乳酸生物發酵液",
+      "蜂蜜提取物",
+      "玻尿酸"
+    ],
+    "description": "提升肌膚保濕度，增加肌膚保水能力。",
+    "image": "/images/812bf8c7fa418e024a91c7915df57a20.png"
+  },
+  {
+    "id": "toner-2",
+    "category": "化妝水系列",
+    "name": "酵母醒膚濃縮精華露",
+    "price": 1500,
+    "priceDisplay": "NT$ 1,500",
+    "volume": "120ml",
+    "target": "油性/粉刺痘痘/混合性肌膚",
+    "ingredients": [
+      "活酵母精華",
+      "羅馬洋甘菊",
+      "桑黃精",
+      "玻尿酸"
+    ],
+    "description": "深層調理、促進肌膚新陳代謝，緊緻毛孔及改善出油及毛孔粗大問題為智慧型功能化妝水。",
     "image": "/images/2f1ab3370470f05fcbc28d82775a9ec6.png"
+  },
+  {
+    "id": "toner-3",
+    "category": "化妝水系列",
+    "name": "大馬士革玫瑰精露",
+    "price": 1680,
+    "priceDisplay": "NT$ 1,680",
+    "volume": "150ml",
+    "target": "任何肌膚/術後修護",
+    "ingredients": [
+      "歐洲保加利亞有機白玫瑰花瓣萃"
+    ],
+    "description": "快速補水定妝、收斂毛孔、安撫肌膚不適狀態。",
+    "image": "/images/fddcb28f84e52e3d3fc841303d0fbdc8.png"
   },
   {
     "id": "serum-1",
     "category": "精華液/油系列",
-    "name": "全效抗老緊緻精華",
-    "price": 2480,
+    "name": "膠原修護精華液",
+    "price": 1500,
+    "priceDisplay": "NT$ 1,500",
     "volume": "30ml",
-    "target": "熟齡肌/乾燥肌",
-    "ingredients": ["胜肽複合精華", "神經醯胺", "角鯊烷"],
-    "description": "深層滋養，撫平細紋，重拾肌膚年輕彈力與光澤。",
-    "image": "/images/4a0d567c094d5eff30d8c9e4018f3a05.png"
+    "target": "任何肌膚",
+    "ingredients": [
+      "海洋膠原蛋白",
+      "竹子乳酸生物發酵液",
+      "蜂蜜提取物",
+      "玻尿酸"
+    ],
+    "description": "保濕潤澤，增強肌膚彈力。",
+    "image": "/images/2295fd0c89776ccd2927ca109cb6af4f.png"
+  },
+  {
+    "id": "serum-2",
+    "category": "精華液/油系列",
+    "name": "皇家蜂萃精華油",
+    "price": 1680,
+    "priceDisplay": "NT$ 1,680",
+    "volume": "30ml",
+    "target": "乾性缺水/細紋老化/毛孔粗大/缺乏彈性肌膚",
+    "ingredients": [
+      "4%蜂毒",
+      "神經醯胺（ceramide）",
+      "輔酶Q10"
+    ],
+    "description": "緊緻毛孔，撫平細紋，細緻毛孔。",
+    "image": "/images/993363e3269bcd9e06e6fdc58f46dab6.png"
+  },
+  {
+    "id": "serum-3",
+    "category": "精華液/油系列",
+    "name": "鴯鶓金萃活顏油",
+    "price": 2980,
+    "priceDisplay": "NT$ 2,980",
+    "volume": "5ml×6",
+    "target": "老化乾燥/敏感肌膚",
+    "ingredients": [
+      "角鯊烯",
+      "澳洲鴯鶓油",
+      "摩洛哥堅果油",
+      "維他命E",
+      "橄欖油"
+    ],
+    "description": "保濕潤澤，增強肌膚彈力。",
+    "image": "/images/584218d9e9701c599fbf5af16dbd0908.png"
+  },
+  {
+    "id": "serum-4",
+    "category": "精華液/油系列",
+    "name": "超能量肌底精萃",
+    "price": 2480,
+    "priceDisplay": "NT$ 2,480",
+    "volume": "30ml",
+    "target": "任何膚質",
+    "ingredients": [
+      "三效深海精粹液",
+      "透明質酸鈉",
+      "烴乙基纖維素"
+    ],
+    "description": "維持肌膚平衡，長效保濕，柔軟，強化肌膚防禦力，建議化妝水後使用。",
+    "image": "/images/4eca08e1ffbd7d65a44197411ec9dc13.png"
+  },
+  {
+    "id": "ampoule-de-1",
+    "category": "德國高效安瓶",
+    "name": "超水感精華安瓶（保濕）",
+    "price": 2600,
+    "priceDisplay": "NT$ 2,600",
+    "volume": "30ml",
+    "target": "任何肌膚/乾燥缺水",
+    "ingredients": [
+      "褐藻醣膠",
+      "尿囊素",
+      "葡萄醣醇",
+      "天然保濕因子（NMF）"
+    ],
+    "description": "即時補充水份，迅速舒緩肌膚乾燥不適。",
+    "image": "/images/ca4938e96b15c7ed6d897629de7e1674.png"
+  },
+  {
+    "id": "ampoule-de-2",
+    "category": "德國高效安瓶",
+    "name": "活化修護精華安瓶（抗炎）",
+    "price": 2600,
+    "priceDisplay": "NT$ 2,600",
+    "volume": "30ml",
+    "target": "任何肌膚/敏感性/痘痘肌",
+    "ingredients": [
+      "紅灌木萃取",
+      "蔓藤葡萄葉萃取",
+      "七葉樹萃取"
+    ],
+    "description": "具抗發炎、舒緩功效同時建立肌膚防禦能力及增強皮膚微循環提升。",
+    "image": "/images/25a03b5d4bd7f091e4333c7d1b9a36c0.png"
+  },
+  {
+    "id": "ampoule-de-3",
+    "category": "德國高效安瓶",
+    "name": "晶亮光澤精華安瓶（美白）",
+    "price": 3000,
+    "priceDisplay": "NT$ 3,000",
+    "volume": "30ml",
+    "target": "暗沈蠟黃肌膚",
+    "ingredients": [
+      "德國洋薊萃取液",
+      "大豆萃取",
+      "卵磷脂"
+    ],
+    "description": "高效防止老化及煥白功能。",
+    "image": "/images/6d1729b18ab97be8da45f72757d82625.png"
+  },
+  {
+    "id": "ampoule-fr-1",
+    "category": "法國植萃安瓶",
+    "name": "魚子童顏鑽白安瓶（彈力）",
+    "price": 3000,
+    "priceDisplay": "NT$ 3,000",
+    "volume": "30ml",
+    "target": "中性/乾肌/缺乏彈性/鬆弛老化肌膚",
+    "ingredients": [
+      "魚子精華萃取",
+      "神經醯胺",
+      "角鯊烯",
+      "天然蛋白質",
+      "微量元素"
+    ],
+    "description": "急救或週期性保養。維持肌膚彈性，增加緊實度，提高肌膚Q彈。",
+    "image": "/images/19e374cd202da2bc247cc2e1c44d750e.png"
+  },
+  {
+    "id": "ampoule-fr-2",
+    "category": "法國植萃安瓶",
+    "name": "藍睡蓮賦活菁萃（光采）",
+    "price": 3280,
+    "priceDisplay": "NT$ 3,280",
+    "volume": "30ml",
+    "target": "任何肌膚",
+    "ingredients": [
+      "藍睡蓮菁萃",
+      "玻尿酸"
+    ],
+    "description": "均勻膚色預防肌膚暗沉與蠟黃，讓皮膚持續煥發透亮。",
+    "image": "/images/a811215a6a00cdf11d2955e50845bfc6.png"
+  },
+  {
+    "id": "ampoule-fr-3",
+    "category": "法國植萃安瓶",
+    "name": "千日菊甦活菁萃（彈力）",
+    "price": 3280,
+    "priceDisplay": "NT$ 3,280",
+    "volume": "30ml",
+    "target": "任何肌膚/乾燥缺水",
+    "ingredients": [
+      "千日菊菁萃5%",
+      "植萃複合多元胜肽-8",
+      "天然保濕因子",
+      "玻尿酸"
+    ],
+    "description": "控油，一次實現「水嫩，補水，鎖水」改善肌膚老態現象。",
+    "image": "/images/48667b7699d198f241c922959d270c0b.png"
+  },
+  {
+    "id": "ampoule-fr-4",
+    "category": "法國植萃安瓶",
+    "name": "樟木子源生菁萃（調理）",
+    "price": 3280,
+    "priceDisplay": "NT$ 3,280",
+    "volume": "30ml",
+    "target": "油性肌膚/混合肌",
+    "ingredients": [
+      "樟樹萃取",
+      "葡萄糖酸鋅"
+    ],
+    "description": "針對油痘肌膚具有鎮靜舒緩作用，調理肌膚油水平衡，為角質層建構健康保護屏障。",
+    "image": "/images/093befffa1a89d4a03b9023f4d0f7163.png"
+  },
+  {
+    "id": "ampoule-fr-5",
+    "category": "法國植萃安瓶",
+    "name": "肌活力修護菁萃（修護）",
+    "price": 3280,
+    "priceDisplay": "NT$ 3,280",
+    "volume": "30ml",
+    "target": "敏感肌/泛紅/屏障受損",
+    "ingredients": [
+      "植萃複合多元胜肽-8（活性成分2%）",
+      "肌因修護賦活因子"
+    ],
+    "description": "溫和修護受損減緩泛紅，敏感，提升肌膚的自我保護屏障，幫助肌膚恢復健康。",
+    "image": "/images/a98b368eeae5a81ed70fe36091a5322f.png"
+  },
+  {
+    "id": "lotion-1",
+    "category": "乳液系列",
+    "name": "24小時超保濕乳液",
+    "price": 2000,
+    "priceDisplay": "NT$ 2,000",
+    "volume": "120ml",
+    "target": "任何肌膚/乾燥缺水/混合性肌膚",
+    "ingredients": [
+      "玻尿酸",
+      "甘草萃取液",
+      "金縷梅萃取",
+      "舒敏植物複合物",
+      "蜂蜜提取物"
+    ],
+    "description": "有效調節肌膚保水，恢復飽滿緊緻彈性，使肌膚水漾細緻，柔化歲月痕跡。",
+    "image": "/images/65e2ebd65221011a3dc48ab027df3675.png"
+  },
+  {
+    "id": "lotion-2",
+    "category": "乳液系列",
+    "name": "激光煥白新生活化乳",
+    "price": 2600,
+    "priceDisplay": "NT$ 2,600",
+    "volume": "120ml",
+    "target": "任何肌膚/暗沉蠟黃/混合油性肌膚/敏感肌",
+    "ingredients": [
+      "德國洋甘菊",
+      "羅馬洋甘菊",
+      "啤酒花莖萃取",
+      "光果甘草萃取"
+    ],
+    "description": "蘊含德國及羅馬洋甘菊精華深透肌底，層層活化表皮肌膚，由內而外透出水嫩光采，達到淨白保濕、修護效果。",
+    "image": "/images/a7428593272353c618bd46336ef64226.png"
+  },
+  {
+    "id": "lotion-3",
+    "category": "乳液系列",
+    "name": "水光保濕乳清",
+    "price": 2980,
+    "priceDisplay": "NT$ 2,980",
+    "volume": "120ml",
+    "target": "任何肌膚/混合性/中乾性肌膚",
+    "ingredients": [
+      "鮭魚軟骨質膠原",
+      "六胜肽",
+      "斗篷草萃取液",
+      "荔枝皮萃取",
+      "天然海洋藻蛋白",
+      "玻尿酸"
+    ],
+    "description": "結合精華液及乳液質地，清爽潤膚保濕，具保濕鎖水效果。妝前使用，讓妝感更服貼透亮。",
+    "image": "/images/077d4d4c549fd3490a7b547bfe38c3ce.png"
+  },
+  {
+    "id": "cream-1",
+    "category": "乳霜系列",
+    "name": "蓮花水亮霜（抗氧化）",
+    "price": 2280,
+    "priceDisplay": "NT$ 2,280",
+    "volume": "50ml",
+    "target": "任何肌膚/暗沉蠟黃/混合油性肌膚",
+    "ingredients": [
+      "維生素E",
+      "維他命C",
+      "蓮花萃取保濕複合物",
+      "夏威夷堅果油"
+    ],
+    "description": "揉合植萃精華及高效抗氧化配方，清除自由基，抑制脂質過氧化，光保護，增強水合作用，改善細紋。",
+    "image": "/images/8ccc6ba6aab9379cacb53fe6c2c4d0bd.png"
+  },
+  {
+    "id": "cream-2",
+    "category": "乳霜系列",
+    "name": "肌因胜肽賦活霜（保濕）",
+    "price": 2880,
+    "priceDisplay": "NT$ 2,880",
+    "volume": "50ml",
+    "target": "混合性/乾性缺水肌膚",
+    "ingredients": [
+      "四胜肽",
+      "蘋果幹細胞",
+      "植物性類胎盤素",
+      "玻尿酸"
+    ],
+    "description": "乾性肌膚補水保水，增加肌膚彈性。",
+    "image": "/images/b5be7641d9dea786d05e10573ac968df.png"
+  },
+  {
+    "id": "cream-3",
+    "category": "乳霜系列",
+    "name": "金鑽賦活霜（拉提）",
+    "price": 3280,
+    "priceDisplay": "NT$ 3,280",
+    "volume": "50ml",
+    "target": "熟齡/老化鬆弛肌膚",
+    "ingredients": [
+      "奈米白金",
+      "德國鱘魚子精華",
+      "松露萃取",
+      "六胜肽",
+      "維他命B5",
+      "乳木果油",
+      "金盞花油",
+      "燕麥醯胺",
+      "玻尿酸"
+    ],
+    "description": "抗老除皺、緊緻拉提、修復細胞。",
+    "image": "/images/2eb429be5959dca710ccfaba44d7b17c.png"
+  },
+  {
+    "id": "cream-4",
+    "category": "乳霜系列",
+    "name": "雪絨滋養霜（彈澤）",
+    "price": 3200,
+    "priceDisplay": "NT$ 3,200",
+    "volume": "50ml",
+    "target": "乾性肌/老化肌膚",
+    "ingredients": [
+      "牛初乳乳清",
+      "Regu-Age 視黃醇",
+      "荷荷巴油",
+      "紅沒藥醇",
+      "氧化還原酶",
+      "水解彈性蛋白",
+      "透明質酸"
+    ],
+    "description": "抗衰老深度補充養分，强化表皮防禦力，恢復皮膚年輕和緊緻滑順。",
+    "image": "/images/96bcc86c1fd09eb9bba1f2d9bf226854.png"
+  },
+  {
+    "id": "repair-1",
+    "category": "術後修復系列",
+    "name": "蝸牛修護凝膠",
+    "price": 2680,
+    "priceDisplay": "NT$ 2,680",
+    "volume": "50ml",
+    "target": "術後修護/敏感肌/乾性缺水肌膚",
+    "ingredients": [
+      "蝸牛腺體分泌物",
+      "尿囊素",
+      "膠原蛋白",
+      "彈力蛋白",
+      "維他命E"
+    ],
+    "description": "維持肌膚水份，預防皮膚乾裂，提升皮膚對環境傷害的保護力。",
+    "image": "/images/cbee6c050c64d287e41210b48db7776a.png"
+  },
+  {
+    "id": "repair-2",
+    "category": "術後修復系列",
+    "name": "蝸牛全能霜",
+    "price": 2980,
+    "priceDisplay": "NT$ 2,980",
+    "volume": "50ml",
+    "target": "術後修護/敏感肌/乾性缺水肌膚",
+    "ingredients": [
+      "蝸牛腺體分泌物",
+      "尿囊素",
+      "膠原蛋白",
+      "維他命E",
+      "乳木果油"
+    ],
+    "description": "增強皮膚自身的防禦機能，敏感肌膚有效獲得修護平衡。",
+    "image": "/images/b37352078b5717e6d7e8977aca96f3e9.png"
+  },
+  {
+    "id": "repair-3",
+    "category": "術後修復系列",
+    "name": "EGF全效修護原液",
+    "price": 2980,
+    "priceDisplay": "NT$ 2,980",
+    "volume": "5ml×6pcs",
+    "target": "任何肌膚/術後修護",
+    "ingredients": [
+      "九胜肽",
+      "EGF",
+      "左旋乳酸",
+      "魚膠原蛋白",
+      "尿囊素",
+      "大小分子玻尿酸",
+      "海澡醣"
+    ],
+    "description": "加速傷口修復、增加皮膚彈性和光澤，修復受損肌膚。",
+    "image": "/images/a74df3e197eeedf0a39d21af7cb23fcc.png"
+  },
+  {
+    "id": "acne-1",
+    "category": "痘痘肌護理系列",
+    "name": "淨膚無瑕凝膠",
+    "price": 1200,
+    "priceDisplay": "NT$ 1,200",
+    "volume": "15ml",
+    "target": "任何肌膚",
+    "ingredients": [
+      "十合一複方抗痤瘡萃取液(Acne Busters)",
+      "薑黃膠",
+      "白千層",
+      "佛手柑"
+    ],
+    "description": "平衡肌膚油脂分泌、淨化毛孔、收斂毛孔，改善暗沉、淨白肌膚。",
+    "image": "/images/28d8af5abedda25cbb2022a71d7e2982.png"
+  },
+  {
+    "id": "acne-2",
+    "category": "痘痘肌護理系列",
+    "name": "淨化調理液",
+    "price": 1680,
+    "priceDisplay": "NT$ 1,680",
+    "volume": "30ml",
+    "target": "任何肌膚",
+    "ingredients": [
+      "BHA",
+      "薰衣草花水",
+      "甘草酸",
+      "斗蓬草萃取液"
+    ],
+    "description": "調理粉刺，暗瘡青春痘，防止肌膚粗糙，避免毛孔阻塞。",
+    "image": "/images/aa03cb9be240df85d693eb7b6fa6584f.png"
+  },
+  {
+    "id": "eye-1",
+    "category": "眼霜系列",
+    "name": "明眸緊緻眼膜霜",
+    "price": 2600,
+    "priceDisplay": "NT$ 2,600",
+    "volume": "30ml",
+    "target": "眼周乾燥/黑眼圈/水腫型/眼周細紋",
+    "ingredients": [
+      "芸香苷",
+      "海藻醣",
+      "七葉膽萃取",
+      "維他命B3",
+      "野山藥",
+      "MYOXINOL™LS 9736秋葵提取物",
+      "BIOPHYTEX LS8740植物性複合物"
+    ],
+    "description": "深入滲透眼周肌膚，撫平魚尾紋/細紋，滋潤活化眼周肌膚。",
+    "image": "/images/247f13a718459287bf5391a17cb92026.png"
+  },
+  {
+    "id": "sun-1",
+    "category": "防曬/身體乳系列",
+    "name": "光感透亮防曬乳（無色）SPF50★★★",
+    "price": 1380,
+    "priceDisplay": "NT$ 1,380",
+    "volume": "40ml",
+    "target": "任何肌膚",
+    "ingredients": [
+      "超微粒二氧化鈦",
+      "3%亮白微脂囊",
+      "3%燕窩胜肽",
+      "3%非洲生命桂包樹萃取",
+      "孔雀石萃取"
+    ],
+    "description": "防曬，隔離，兼具保濕。SPF50物理性，可阻擋UVA和UVB。",
+    "image": "/images/96307d67c76398424008eca58c12eb32.png"
+  },
+  {
+    "id": "sun-2",
+    "category": "防曬/身體乳系列",
+    "name": "清透淨白防曬乳（潤色SPF50）★★★",
+    "price": 1380,
+    "priceDisplay": "NT$ 1,380",
+    "volume": "40ml",
+    "target": "任何肌膚",
+    "ingredients": [
+      "超微粒二氧化鈦",
+      "3%亮白微脂囊",
+      "3%燕窩胜",
+      "3%非洲生命桂包樹萃取",
+      "清透礦物粉體",
+      "孔雀石萃取"
+    ],
+    "description": "防曬，隔離，兼具保濕。SPF50物理性，可阻擋UVA和UVB。",
+    "image": "/images/2d2ee83d7bac2134758988a8cca29b0a.png"
+  },
+  {
+    "id": "body-1",
+    "category": "防曬/身體乳系列",
+    "name": "杏仁酸淨白身體乳",
+    "price": 2000,
+    "priceDisplay": "NT$ 2,000",
+    "volume": "500ml",
+    "target": "任何肌膚",
+    "ingredients": [
+      "杏仁酸",
+      "尿囊素",
+      "七葉素提取"
+    ],
+    "description": "淨化毛孔、細緻肌膚，防止肌膚粗糙，減少肌膚脫屑。",
+    "image": "/images/e280dd8e11ab862964f4f5be659ca648.png"
+  },
+  {
+    "id": "body-2",
+    "category": "防曬/身體乳系列",
+    "name": "褐藻身體乳",
+    "price": 1880,
+    "priceDisplay": "NT$ 1,880",
+    "volume": "300ml",
+    "target": "所有肌膚/改善乾燥肌膚",
+    "ingredients": [
+      "褐藻萃取",
+      "洋甘菊萃取",
+      "黃芩萃取",
+      "雷公根萃取",
+      "維他命E"
+    ],
+    "description": "高效保濕，多種舒敏成份，有效緩解肌膚各種不適。",
+    "image": "/images/75b95e9819ab9252ee85f16d97cec7c2.png"
+  },
+  {
+    "id": "mask-1",
+    "category": "面膜/凍膜系列",
+    "name": "3D積雪草蝸牛修護面膜",
+    "price": 128,
+    "priceDisplay": "NT$ 128/片",
+    "volume": "單片裝",
+    "target": "任何肌膚",
+    "ingredients": [
+      "蝸牛黏液萃取",
+      "有機露珠草萃取",
+      "積雪草萃取"
+    ],
+    "description": "美國杜邦專利材質的隱形蠶絲面膜，醫美術後可立即使用。",
+    "image": "/images/3fa16dd18f5ac4a017b875f8caca8d7d.png"
+  },
+  {
+    "id": "mask-2",
+    "category": "面膜/凍膜系列",
+    "name": "瞬效亮白面膜",
+    "price": 980,
+    "priceDisplay": "NT$ 980/盒（6入）",
+    "volume": "6入/盒",
+    "target": "暗沈/蠟黃肌膚",
+    "ingredients": [
+      "煙醯胺",
+      "海水仙提取物",
+      "歐囊鏈藻提取物",
+      "乳酸",
+      "高山火熔草花",
+      "法地欖仁果萃取"
+    ],
+    "description": "淡化斑點，膚質透亮，膚色更透、提亮、光采。",
+    "image": "/images/80d8664f2113c7f79e0acab4071d46ee.png"
+  },
+  {
+    "id": "mask-3",
+    "category": "面膜/凍膜系列",
+    "name": "3D極光緊緻面膜",
+    "price": 980,
+    "priceDisplay": "NT$ 980/盒（6入）",
+    "volume": "6入/盒",
+    "target": "乾燥缺水/鬆弛老化/色澤不均",
+    "ingredients": [
+      "六胜肽",
+      "海藻醣",
+      "玻尿酸",
+      "左旋乳酸",
+      "甘草酸"
+    ],
+    "description": "淡化細紋，增加肌膚水嫩光澤，補充水分後由內而外瑩白透亮。",
+    "image": "/images/0494cfc246cc163d995c5c448e3474f0.png"
+  },
+  {
+    "id": "mask-4",
+    "category": "面膜/凍膜系列",
+    "name": "3D蝸牛修護面膜",
+    "price": 2200,
+    "priceDisplay": "NT$ 2,200/盒（10入）",
+    "volume": "10入/盒",
+    "target": "任何肌膚",
+    "ingredients": [
+      "蝸牛黏液萃取",
+      "龍血萃取",
+      "大小分子玻尿酸"
+    ],
+    "description": "美國杜邦專利隱形蠶絲面膜，蘊含蝸牛黏液萃取精華及龍血萃取，舒緩修護。",
+    "image": "/images/6233f667428d3ba0f51d6a11321c2089.png"
+  },
+  {
+    "id": "mask-5",
+    "category": "面膜/凍膜系列",
+    "name": "龍血修護凍膜",
+    "price": 1980,
+    "priceDisplay": "NT$ 1,980",
+    "volume": "250ml",
+    "target": "術後修護",
+    "ingredients": [
+      "龍血萃取液",
+      "海茴香幹細胞",
+      "尿囊素"
+    ],
+    "description": "修護，舒緩肌膚，增強肌膚對環境傷害的保護力。",
+    "image": "/images/c7899c01417d5a10f1c643336b1fddaf.png"
+  },
+  {
+    "id": "mask-6",
+    "category": "面膜/凍膜系列",
+    "name": "煥采淨顏泥膜",
+    "price": 2800,
+    "priceDisplay": "NT$ 2,800",
+    "volume": "250ml",
+    "target": "混合油性/粉刺痘痘/毛孔粗大/蠟黃暗沉",
+    "ingredients": [
+      "天然冰河泥",
+      "高嶺土",
+      "維他命B5",
+      "木瓜酵素",
+      "玻尿酸"
+    ],
+    "description": "溫和使肌膚表層堆積的雜質排出，使肌膚更加柔嫩潔淨，回復光滑潤澤。",
+    "image": "/images/0ff02a299261c54f2c21c632cf41425b.png"
   }
 ]
