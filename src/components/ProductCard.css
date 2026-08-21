@@ -1,0 +1,111 @@
+.product-card {
+  display: flex;
+  flex-direction: column;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  transition: transform var(--transition-normal), box-shadow var(--transition-normal);
+  height: 100%;
+}
+
+.product-card:hover {
+  transform: translateY(-10px);
+  box-shadow: var(--shadow-lg);
+}
+
+.product-image-placeholder {
+  height: 250px;
+  background: linear-gradient(135deg, var(--color-primary-light) 0%, var(--color-bg) 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-heading);
+  font-size: 1.5rem;
+  color: var(--color-primary-dark);
+  font-weight: 700;
+  opacity: 0.8;
+}
+
+.product-info {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.product-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+}
+
+.product-name {
+  font-size: 1.25rem;
+  color: var(--color-primary-dark);
+  font-weight: 600;
+  margin: 0;
+}
+
+.product-price {
+  font-weight: 700;
+  color: var(--color-accent);
+  font-size: 1.1rem;
+}
+
+.product-desc {
+  font-size: 0.95rem;
+  color: var(--color-text-muted);
+  margin-bottom: 1.5rem;
+  line-height: 1.5;
+  flex-grow: 1;
+}
+
+.product-meta {
+  margin-bottom: 1.5rem;
+}
+
+.meta-tag {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  background: var(--color-primary-light);
+  color: var(--color-primary-dark);
+  border-radius: var(--radius-full);
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+.product-details {
+  margin-bottom: 2rem;
+  font-size: 0.9rem;
+}
+
+.product-details h4 {
+  font-size: 0.95rem;
+  margin-bottom: 0.5rem;
+  color: var(--color-text-main);
+}
+
+.product-details p {
+  color: var(--color-text-muted);
+  margin-bottom: 1rem;
+}
+
+.ingredient-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.ingredient-list li {
+  font-size: 0.85rem;
+  color: var(--color-accent-light);
+  background: rgba(125, 93, 2, 0.05);
+  padding: 0.2rem 0.5rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid rgba(125, 93, 2, 0.1);
+}
+
+.btn-full-width {
+  width: 100%;
+  margin-top: auto;
+}
