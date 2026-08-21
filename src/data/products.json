@@ -8,7 +8,7 @@
     "target": "任何肌膚/醫美術後/敏感肌膚",
     "ingredients": ["薰衣草萃取精華", "天然保濕因子NMF", "玻尿酸"],
     "description": "功效為二效合一：可卸妝、洗臉，同時幫肌膚保濕、舒緩肌膚功效。",
-    "image": "/images/cleansing-1.jpg"
+    "image": "/images/149031fe4e7b629d425d15524fbd527b.png"
   },
   {
     "id": "cleansing-2",
@@ -19,7 +19,7 @@
     "target": "任何肌膚/毛孔粗大/混合肌/油性肌膚",
     "ingredients": ["左旋維他命C", "活酵母精華", "胺基酸"],
     "description": "溫和洗淨毛孔，平衡油脂分泌，促進肌膚新陳代謝功能達到清潔效果。",
-    "image": "/images/cleansing-2.jpg"
+    "image": "/images/2295fd0c89776ccd2927ca109cb6af4f.png"
   },
   {
     "id": "cleansing-3",
@@ -30,7 +30,7 @@
     "target": "任何肌膚/角質肥厚者",
     "ingredients": ["石榴萃取", "卡姆果萃取", "蘋果酸"],
     "description": "軟化角質，去除老廢角質層，有效促進角質更新，使肌膚滑嫩亮白。",
-    "image": "/images/cleansing-3.jpg"
+    "image": "/images/2ed49e52fe333364084790aa468f7125.jpg"
   },
   {
     "id": "toner-1",
@@ -41,7 +41,7 @@
     "target": "所有肌膚",
     "ingredients": ["洋甘菊萃取", "蘆薈萃取", "玻尿酸"],
     "description": "深層補水，鎮靜舒緩肌膚，為後續保養打好基礎。",
-    "image": "/images/toner-1.jpg"
+    "image": "/images/2f1ab3370470f05fcbc28d82775a9ec6.png"
   },
   {
     "id": "serum-1",
@@ -52,6 +52,6 @@
     "target": "熟齡肌/乾燥肌",
     "ingredients": ["胜肽複合精華", "神經醯胺", "角鯊烷"],
     "description": "深層滋養，撫平細紋，重拾肌膚年輕彈力與光澤。",
-    "image": "/images/serum-1.jpg"
+    "image": "/images/4a0d567c094d5eff30d8c9e4018f3a05.png"
   }
 ]

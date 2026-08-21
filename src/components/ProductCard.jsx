@@ -4,9 +4,8 @@ import './ProductCard.css';
 const ProductCard = ({ product }) => {
   return (
     <div className="product-card glass-panel">
-      <div className="product-image-placeholder">
-        <span>Bio-Renewal</span>
-        {/* <img src={product.image} alt={product.name} /> */}
+      <div className="product-image-wrapper">
+        <img src={product.image} alt={product.name} className="product-image" />
       </div>
       <div className="product-info">
         <div className="product-header">
