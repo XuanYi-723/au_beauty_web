@@ -7,8 +7,8 @@ const Footer = () => {
       <div className="container">
         <div className="footer-grid">
           <div className="footer-brand">
-            <h2>Bio-Renewal</h2>
-            <p>融合科學與專業，為您帶來極致的肌膚呵護體驗。我們致力於研發最適合您的保養聖品。</p>
+            <h2>於美 au_beauty</h2>
+            <p>於美嚴選 Bio-Renewal 醫學美容保養品。融合科學與專業，為您帶來極致的肌膚呵護體驗。我們致力於為您搭配最適合的保養聖品。</p>
           </div>
           
           <div className="footer-links">
@@ -29,13 +29,18 @@ const Footer = () => {
           <div className="footer-contact">
             <h3>聯絡我們</h3>
             <p>週一至週六 10:00 - 20:00</p>
-            <p>Email: service@bio-renewal.com</p>
+            <p>Email: service@au-beauty.com</p>
+            <p>
+              <a href="https://www.instagram.com/au_beauty2025/" target="_blank" rel="noopener noreferrer" style={{color: 'var(--color-primary-light)', textDecoration: 'underline'}}>
+                追蹤我們的 Instagram @au_beauty2025
+              </a>
+            </p>
             <p>歡迎追蹤我們獲取最新活動與保養資訊</p>
           </div>
         </div>
         
         <div className="footer-bottom">
-          <p>&copy; {new Date().getFullYear()} Bio-Renewal. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} 於美 au_beauty. All rights reserved.</p>
         </div>
       </div>
     </footer>

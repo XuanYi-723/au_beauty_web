@@ -1,0 +1,149 @@
+.quiz-page {
+  padding-bottom: 6rem;
+  min-height: 80vh;
+}
+
+.quiz-header {
+  margin: 3rem 0;
+}
+
+.quiz-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.quiz-card {
+  padding: 3rem;
+  border-radius: var(--radius-lg);
+  background: white;
+  box-shadow: var(--shadow-md);
+}
+
+.quiz-progress {
+  margin-bottom: 2rem;
+}
+
+.quiz-progress span {
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.progress-bar {
+  height: 6px;
+  background: var(--color-bg-alt);
+  border-radius: var(--radius-full);
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  background: var(--color-accent);
+  transition: width 0.3s ease;
+}
+
+.question-title {
+  font-size: 1.5rem;
+  color: var(--color-primary-dark);
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.options-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+}
+
+.option-btn {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.5rem;
+  background: var(--color-bg);
+  border: 2px solid transparent;
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  text-align: left;
+}
+
+.option-btn:hover {
+  background: var(--color-bg-alt);
+  transform: translateY(-2px);
+}
+
+.option-btn.selected {
+  border-color: var(--color-accent);
+  background: rgba(125, 93, 2, 0.05);
+}
+
+.option-icon {
+  font-size: 1.5rem;
+}
+
+.option-text {
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: var(--color-text-main);
+}
+
+.quiz-results {
+  padding: 2rem 0;
+}
+
+.result-icon {
+  font-size: 3rem;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.recommended-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.recommended-card {
+  padding: 1.5rem;
+  text-align: center;
+  background: white;
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.recommended-card img {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+  margin: 0 auto;
+}
+
+.recommended-card h4 {
+  font-size: 1rem;
+  color: var(--color-text-main);
+}
+
+.recommended-card span {
+  font-weight: bold;
+  color: var(--color-accent);
+}
+
+.ml-1 {
+  margin-left: 1rem;
+}
+
+@media (max-width: 600px) {
+  .quiz-card {
+    padding: 1.5rem;
+  }
+  
+  .options-grid {
+    grid-template-columns: 1fr;
+  }
+}
