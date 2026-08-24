@@ -1,0 +1,187 @@
+{
+  "changes": [
+    {
+      "name": "高效卸潔蜜",
+      "old_price": 1280,
+      "new_price": 1600,
+      "matched_name": "高效潔顏蜜(卸洗合一)"
+    },
+    {
+      "name": "胺基酸純淨洗面乳",
+      "old_price": 880,
+      "new_price": 1100,
+      "matched_name": "胺基酸純淨洗面乳"
+    },
+    {
+      "name": "柔晶煥采更新膠",
+      "old_price": 1680,
+      "new_price": 2000,
+      "matched_name": "柔晶煥彩更新膠"
+    },
+    {
+      "name": "深海膠原活化機能水",
+      "old_price": 1280,
+      "new_price": 1500,
+      "matched_name": "深海膠原活化機能水(保濕)"
+    },
+    {
+      "name": "酵母醒膚濃縮精華露",
+      "old_price": 1500,
+      "new_price": 1875,
+      "matched_name": "酵母醒膚濃縮精華露(油痘)"
+    },
+    {
+      "name": "大馬士革玫瑰精露",
+      "old_price": 1680,
+      "new_price": 2100,
+      "matched_name": "大馬士革玫瑰精露(降溫)"
+    },
+    {
+      "name": "膠原修護精華液",
+      "old_price": 1500,
+      "new_price": 1875,
+      "matched_name": "膠原修護精華液"
+    },
+    {
+      "name": "皇家蜂萃精華油",
+      "old_price": 1680,
+      "new_price": 2100,
+      "matched_name": "皇家蜂萃精華油(抗老明星品)"
+    },
+    {
+      "name": "超能量肌底精萃",
+      "old_price": 2480,
+      "new_price": 4100,
+      "matched_name": "超能量肌底精粹(肌底液)"
+    },
+    {
+      "name": "超水感精華安瓶（保濕）",
+      "old_price": 2600,
+      "new_price": 3250,
+      "matched_name": "超水感精華安瓶(保濕)"
+    },
+    {
+      "name": "活化修護精華安瓶（抗炎）",
+      "old_price": 2600,
+      "new_price": 3250,
+      "matched_name": "活化修護精華安瓶(抗炎)"
+    },
+    {
+      "name": "晶亮光澤精華安瓶（美白）",
+      "old_price": 3000,
+      "new_price": 3750,
+      "matched_name": "晶亮光澤精華安瓶(美白)"
+    },
+    {
+      "name": "魚子童顏鑽白安瓶（彈力）",
+      "old_price": 3000,
+      "new_price": 3750,
+      "matched_name": "魚子童顏鑽白安瓶(彈力)"
+    },
+    {
+      "name": "24小時超保濕乳液",
+      "old_price": 2000,
+      "new_price": 2500,
+      "matched_name": "24小時超保濕乳液"
+    },
+    {
+      "name": "激光煥白新生活化乳",
+      "old_price": 2600,
+      "new_price": 3250,
+      "matched_name": "激光煥白新生活化乳(美白抗敏)"
+    },
+    {
+      "name": "蓮花水亮霜（抗氧化）",
+      "old_price": 2280,
+      "new_price": 2850,
+      "matched_name": "蓮花水量霜(抗氧化)"
+    },
+    {
+      "name": "肌因胜肽賦活霜（保濕）",
+      "old_price": 2880,
+      "new_price": 3600,
+      "matched_name": "肌因胜肽賦活霜(保濕)"
+    },
+    {
+      "name": "金鑽賦活霜（拉提）",
+      "old_price": 3280,
+      "new_price": 4100,
+      "matched_name": "金鑽賦活霜(拉提)"
+    },
+    {
+      "name": "雪絨滋養霜（彈澤）",
+      "old_price": 3200,
+      "new_price": 4000,
+      "matched_name": "雪絨滋養霜(彈澤)"
+    },
+    {
+      "name": "蝸牛修護凝膠",
+      "old_price": 2680,
+      "new_price": 3350,
+      "matched_name": "蝸牛修護凝膠(術後即)霜瓶"
+    },
+    {
+      "name": "蝸牛全能霜",
+      "old_price": 2980,
+      "new_price": 3725,
+      "matched_name": "蝸牛全能霜(術後)"
+    },
+    {
+      "name": "淨化調理液",
+      "old_price": 1680,
+      "new_price": 2100,
+      "matched_name": "淨化調理液(粉刺痘痘)"
+    },
+    {
+      "name": "明眸緊緻眼膜霜",
+      "old_price": 2600,
+      "new_price": 3250,
+      "matched_name": "明眸緊緻眼膜霜"
+    },
+    {
+      "name": "光感透亮防曬乳（無色）SPF50★★★",
+      "old_price": 1380,
+      "new_price": 1725,
+      "matched_name": "光感透亮防曬乳SPF50(無色)"
+    },
+    {
+      "name": "清透淨白防曬乳（潤色SPF50）★★★",
+      "old_price": 1380,
+      "new_price": 1725,
+      "matched_name": "清透淨白防曬乳SPF50(膚色)"
+    },
+    {
+      "name": "3D積雪草蝸牛修護面膜",
+      "old_price": 128,
+      "new_price": 160,
+      "matched_name": "3D積雪草蝸牛專液面膜"
+    },
+    {
+      "name": "龍血修護凍膜",
+      "old_price": 1980,
+      "new_price": 2475,
+      "matched_name": "龍血修護凍膜(術後即用)"
+    },
+    {
+      "name": "煥采淨顏泥膜",
+      "old_price": 2800,
+      "new_price": 3500,
+      "matched_name": "煥采淨顏泥膜"
+    }
+  ],
+  "unmatched": [
+    "鴯鶓金萃活顏油",
+    "藍睡蓮賦活菁萃（光采）",
+    "千日菊甦活菁萃（彈力）",
+    "樟木子源生菁萃（調理）",
+    "肌活力修護菁萃（修護）",
+    "水光保濕乳清",
+    "EGF全效修護原液",
+    "淨膚無瑕凝膠",
+    "杏仁酸淨白身體乳",
+    "褐藻身體乳",
+    "瞬效亮白面膜",
+    "3D極光緊緻面膜",
+    "3D蝸牛修護面膜"
+  ]
+}
