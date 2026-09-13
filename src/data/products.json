@@ -21,7 +21,7 @@
     "name": "胺基酸純淨洗面乳",
     "price": 606,
     "priceDisplay": "NT$ 606",
-    "volume": "120ml",
+    "volume": "50ml",
     "target": "任何肌膚/毛孔粗大/混合肌/油性肌膚",
     "ingredients": [
       "左旋維他命C",
@@ -61,7 +61,7 @@
       "蜂蜜提取物",
       "玻尿酸"
     ],
-    "description": "提升肌膚保濕度，增加肌膚保水能力。",
+    "description": "重建肌膚角質層提升肌膚保濕度，增加肌膚保水能力。",
     "image": "/images/812bf8c7fa418e024a91c7915df57a20.png"
   },
   {
@@ -152,8 +152,8 @@
     "name": "超能量肌底精萃",
     "price": 2100,
     "priceDisplay": "NT$ 2,100",
-    "volume": "30ml",
-    "target": "任何膚質",
+    "volume": "15ml",
+    "target": "任何膚質(發炎狀態不能使用)",
     "ingredients": [
       "三效深海精粹液",
       "透明質酸鈉",
@@ -483,7 +483,7 @@
     "name": "淨膚無瑕凝膠",
     "price": 1500,
     "priceDisplay": "NT$ 1,500",
-    "volume": "15ml",
+    "volume": "20ml",
     "target": "任何肌膚",
     "ingredients": [
       "十合一複方抗痤瘡萃取液(Acne Busters)",
@@ -501,7 +501,7 @@
     "price": 2100,
     "priceDisplay": "NT$ 2,100",
     "volume": "30ml",
-    "target": "任何肌膚",
+    "target": "油性/粉刺/面皰/易長痘",
     "ingredients": [
       "BHA",
       "薰衣草花水",
